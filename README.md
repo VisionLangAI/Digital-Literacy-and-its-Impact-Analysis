@@ -1,4 +1,3 @@
-readme_content = """# Digital Literacy Education and Its Economic Impact in Rural Communities
 
 ## Overview
 This repository contains the dataset **"Digital Literacy Education and Its Economic Impact in Rural Communities"**, which examines the role of digital literacy programs in enhancing economic development, employment opportunities, and social inclusion in rural areas. The dataset is designed for research in education, economics, and social sciences.
